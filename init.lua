@@ -62,3 +62,5 @@ pcall(require('telescope').load_extension, 'fzf')
 require('nvim-autopairs').setup({
   disable_filetype = { "TelescopePrompt" , "vim" },
 })
+
+-- Neorg
