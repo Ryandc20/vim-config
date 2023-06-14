@@ -62,6 +62,7 @@ vim.opt.undofile = true
 
 -- Terminal colors 
 vim.opt.termguicolors = true
+-- vim.o.background = 'light'
 
 -- Yanks copy to main clipboard 
 vim.o.clipboard = "unnamedplus"

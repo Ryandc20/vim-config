@@ -1,0 +1,31 @@
+{
+    "workspace.library": [
+        "/home/ryanc/.local/share/nvim/site/pack/packer/start/neodev.nvim/types/stable",
+        "/usr/share/nvim/runtime/lua",
+        "/home/ryanc/.local/share/nvim/site/pack/packer/opt/nvim-treesitter-textobjects/lua",
+        "/home/ryanc/.local/share/nvim/site/pack/packer/opt/telescope-fzf-native.nvim/lua",
+        "/home/ryanc/.local/share/nvim/site/pack/packer/start/Comment.nvim/lua",
+        "/home/ryanc/.local/share/nvim/site/pack/packer/start/LuaSnip/lua",
+        "/home/ryanc/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp/lua",
+        "/home/ryanc/.local/share/nvim/site/pack/packer/start/cmp_luasnip/lua",
+        "/home/ryanc/.local/share/nvim/site/pack/packer/start/fidget.nvim/lua",
+        "/home/ryanc/.local/share/nvim/site/pack/packer/start/gitsigns.nvim/lua",
+        "/home/ryanc/.local/share/nvim/site/pack/packer/start/indent-blankline.nvim/lua",
+        "/home/ryanc/.local/share/nvim/site/pack/packer/start/lualine.nvim/lua",
+        "/home/ryanc/.local/share/nvim/site/pack/packer/start/mason-lspconfig.nvim/lua",
+        "/home/ryanc/.local/share/nvim/site/pack/packer/start/mason.nvim/lua",
+        "/home/ryanc/.local/share/nvim/site/pack/packer/start/material.nvim/lua",
+        "/home/ryanc/.local/share/nvim/site/pack/packer/start/neodev.nvim/lua",
+        "/home/ryanc/.local/share/nvim/site/pack/packer/start/nvim/lua",
+        "/home/ryanc/.local/share/nvim/site/pack/packer/start/nvim-autopairs/lua",
+        "/home/ryanc/.local/share/nvim/site/pack/packer/start/nvim-cmp/lua",
+        "/home/ryanc/.local/share/nvim/site/pack/packer/start/nvim-lspconfig/lua",
+        "/home/ryanc/.local/share/nvim/site/pack/packer/start/nvim-treesitter/lua",
+        "/home/ryanc/.local/share/nvim/site/pack/packer/start/onedark.nvim/lua",
+        "/home/ryanc/.local/share/nvim/site/pack/packer/start/packer.nvim/lua",
+        "/home/ryanc/.local/share/nvim/site/pack/packer/start/plenary.nvim/lua",
+        "/home/ryanc/.local/share/nvim/site/pack/packer/start/telescope.nvim/lua",
+        "/home/ryanc/.config/nvim/lua",
+        "${3rd}/luv/library"
+    ]
+}
